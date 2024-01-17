@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@svgs/*": ["./src/assets/svgs/*"],
+      "@animations/*": ["./src/assets/animations/*"],
+      "@fonts/*": ["./src/assets/fonts/*"],
+      "@components/*": ["./src/components/*"],
+      "@constants/*": ["./src/constants/*"],
+      "@contexts/*": ["./src/contexts/*"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@typescript/*": ["./src/typescript/*"],
+      "@theme/*": ["./src/theme/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@styles/*": ["./src/styles/*"],
+      "@formik/*": ["./src/formik/*"],
+      "@utils/*": ["./src/utils/*"]
+    }
+  }
+}

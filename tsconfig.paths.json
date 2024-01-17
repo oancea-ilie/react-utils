@@ -1,0 +1,45 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@fonts/*": [
+        "./src/assets/fonts/*"
+      ],
+      "@animations/*": [
+        "./src/assets/animations/*"
+      ],
+      "@images/*": [
+        "./src/assets/images/*"
+      ],
+      "@svgs/*": [
+        "./src/assets/svgs/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
+      "@pages/*": [
+        "./src/pages/*"
+      ],
+      "@hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@joy/*": [
+        "./src/joy/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ],
+      "@constants/*": [
+        "./src/constants/*"
+      ],
+      "@typescript/*": [
+        "./src/typescript/*"
+      ],
+      "@store/*": [
+        "./src/store/*"
+      ],
+      "@api/*": [
+        "./src/api/*"
+      ],
+    }
+  }
+}
